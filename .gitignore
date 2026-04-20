@@ -1,3 +1,4 @@
+test.py
 .ipynb_checkpoints/
 
 .idea/
@@ -78,6 +79,8 @@ docs/_build/
 # PyBuilder
 .pybuilder/
 target/
+
+*.pckl
 
 # Jupyter Notebook
 .ipynb_checkpoints
